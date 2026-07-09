@@ -162,7 +162,7 @@ End-to-End-E-Commerce-Sales-Analytics/
 
 **Tushar Parihar**
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/tusharrparihar
 - GitHub: https://github.com/tusharrparihar
 
 ---
